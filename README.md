@@ -20,7 +20,8 @@ This repository summarizes how ORNE works.
  
  ・rosrun map_server map_saver -f 地図の名前
  
- __この際に地図を2つ作る。1つは自律移動をする際に必要となるコマンドであり、２つ目はテスト用のものである__
+ __この際に地図を2つ作る
+ 1つは自律移動をする際に必要となるコマンドであり、２つ目はテスト用のものである__
  
  
  
