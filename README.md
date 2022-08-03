@@ -24,5 +24,10 @@ This repository summarizes how ORNE works.
  
  __1つは自律移動をする際に必要となるコマンドであり、２つ目はテスト用のものである__
  
+ __次に作った地図にwavy_pointを置くコマンド__
+ 
+ ・roslaunch orne_waypoints_editor edit_waypoints_viz.launch map_file:={mapファイル名} waypoints_file:={waypointsファイル名}.yaml
+ 
+ __この際に気を付けることはwavy_pointを置く場所はカーブの曲がり角とその先に置くことを忘れない__
  
  
