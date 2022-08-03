@@ -8,3 +8,5 @@ This repository summarizes how ORNE works.
  
  ・roslaunch orne_bringup orne_beta.launch
  
+ ・roslaunch icart_mini_driver teleop_joy.launch
+ This command enables the use of the joy stick controller.
