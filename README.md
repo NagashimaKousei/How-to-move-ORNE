@@ -15,3 +15,9 @@ This repository summarizes how ORNE works.
  //Map generation using joy stick controller//
  
  ・roslaunch orne_navigation_executor build_map_teleop.launch
+ 
+ //Next, name the generated map//
+ 
+ ・rosrun map_server map_saver -f 地図の名前
+ 
+ 
