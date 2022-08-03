@@ -4,13 +4,13 @@ This repository summarizes how ORNE works.
 
  ・roslaunch orne_bringup orne_alpha.launch
  
- _Remember to change from alpha to beta when using this command_
+ __Remember to change from alpha to beta when using this command__
  
  ・roslaunch orne_bringup orne_beta.launch
  
  ・roslaunch icart_mini_driver teleop_joy.launch
  
- //This command enables the use of the joy stick controller//
+ **This command enables the use of the joy stick controller**
 
  //Map generation using joy stick controller//
  
