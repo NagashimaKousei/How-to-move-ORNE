@@ -4,7 +4,7 @@ This repository summarizes how ORNE works.
 
  ・roslaunch orne_bringup orne_alpha.launch
  
- //Remember to change from alpha to beta when using this command//
+ _Remember to change from alpha to beta when using this command_
  
  ・roslaunch orne_bringup orne_beta.launch
  
