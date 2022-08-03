@@ -4,23 +4,23 @@ This repository summarizes how ORNE works.
 
  ・roslaunch orne_bringup orne_alpha.launch
  
- __Remember to change from alpha to beta when using this command__
+ __ここでalphaからbetaに変更することを忘れない__
  
  ・roslaunch orne_bringup orne_beta.launch
  
  ・roslaunch icart_mini_driver teleop_joy.launch
  
- **This command enables the use of the joy stick controller**
+ **このコマンドはjoy stick controllerで地図を生成したい際に使います**
 
- __Map generation using joy stick controller__
+ __joy stick controllerを使って地図を生成するコマンドである__
  
  ・roslaunch orne_navigation_executor build_map_teleop.launch
  
- __Next, name the generated map__
+ __次に地図の名前を決める__
  
  ・rosrun map_server map_saver -f 地図の名前
  
- __At this time, two files are created, one that is actually used for autonomous movement and one that is not__
+ __この際に地図を2つ作る。1つは自律移動をする際に必要となるコマンドであり、２つ目はテスト用のものである__
  
  
  
