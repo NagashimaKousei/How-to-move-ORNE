@@ -31,5 +31,7 @@ This repository summarizes how ORNE works.
  __この際に気を付けることはwavy_pointを置く場所はカーブの曲がり角とその先に置くことを忘れない__
  
  
- __最後にコストマップ 自律移動時のコストマップの作成を行います。作成したファイル_for_costmap.yamlを追加する__
+ __コストマップ 自律移動時のコストマップの作成を行います。作成したファイル_for_costmap.yamlを追加する__
+ 
+ __roslaunch orne_navigation_executor play_waypoints_nav_{alpha/beta}.launch map_file:={フルパスでmapのyamlファイルを指定※拡張子なし}waypoints_file:={フルパスでwaypointsのyamlファイルを指定※拡張子あり}__
  
