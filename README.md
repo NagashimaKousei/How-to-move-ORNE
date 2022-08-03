@@ -36,3 +36,5 @@ This repository summarizes how ORNE works.
  __roslaunch orne_navigation_executor play_waypoints_nav_(alpha/beta).launch map_file:=(フルパスでmapのyamlファイルを指定※拡張子な)waypoints_file:=(フルパスでwaypointsのyamlファイルを指定※拡張子あり)__
  
  __最後に自律移動の開始 Rviz上にあるstart_waypoint_navigationボタンを押すと自律移動を開始します__
+ 
+ #Referenced sites#
