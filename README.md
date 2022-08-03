@@ -20,4 +20,7 @@ This repository summarizes how ORNE works.
  
  ・rosrun map_server map_saver -f 地図の名前
  
+ //At this time, two files are created, one that is actually used for autonomous movement and one that is not//
+ 
+ 
  
