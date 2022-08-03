@@ -11,3 +11,7 @@ This repository summarizes how ORNE works.
  ・roslaunch icart_mini_driver teleop_joy.launch
  
  //This command enables the use of the joy stick controller//
+
+ //Map generation using joy stick controller//
+ 
+ ・roslaunch orne_navigation_executor build_map_teleop.launch
