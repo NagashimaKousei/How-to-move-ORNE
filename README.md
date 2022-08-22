@@ -37,6 +37,7 @@ This repository summarizes how ORNE works.
  
  __最後に自律移動の開始 Rviz上にあるstart_waypoint_navigationボタンを押すと自律移動を開始します__
  
+ __メモ__
  pwdを行うと自分のディレクトリーを知ることが出来る。
  フルパスとは、自分のいるディレクトリーを指定してあげることを指す
  
