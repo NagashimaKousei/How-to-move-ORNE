@@ -44,7 +44,8 @@ This repository summarizes how ORNE works.
  
  __0822で動かした際のエラー__
  
- #ドラッグして移動，右クリックでwaypointの追加と削除ができます．
+ ドラッグして移動，右クリックでwaypointの追加と削除ができます．
+ 
 $ roslaunch orne_waypoints_editor edit_waypoints_viz.launch map_file:={mapファイル名} waypoints_file:={waypointsファイル名}.yaml
 
  
