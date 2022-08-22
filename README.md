@@ -39,15 +39,14 @@ This repository summarizes how ORNE works.
  
  __メモ__
  
- pwdを行うと自分のディレクトリーを知ることが出来る。
+ pwdを行うと自分のディレクトリーを知ることが出来る
  フルパスとは、自分のいるディレクトリーを指定してあげることを指す
  
  __0822で動かした際のエラー__
  
- ドラッグして移動，右クリックでwaypointの追加と削除ができます．
- 
 $ roslaunch orne_waypoints_editor edit_waypoints_viz.launch map_file:={mapファイル名} waypoints_file:={waypointsファイル名}.yaml
-
+ 
+ ファイル名に注意して実行する
  
  # Referenced sites #
  https://github.com/open-rdc/orne_navigation/wiki/ORNE%E7%92%B0%E5%A2%83%E5%8B%95%E4%BD%9C%E3%81%AE%E6%89%8B%E9%A0%86
