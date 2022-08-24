@@ -49,5 +49,11 @@ $ roslaunch orne_waypoints_editor edit_waypoints_viz.launch map_file:={mapファ
  
  ファイル名に注意して実行する
  
+ __0824野外で動かした際に扱ったコマンド__
+ 
+ rosbag record -a -O ファイル名
+ 
+ rosbagを取ることが出来る
+ 
  # Referenced sites #
  https://github.com/open-rdc/orne_navigation/wiki/ORNE%E7%92%B0%E5%A2%83%E5%8B%95%E4%BD%9C%E3%81%AE%E6%89%8B%E9%A0%86
