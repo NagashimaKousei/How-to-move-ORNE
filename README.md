@@ -65,7 +65,7 @@ $ roslaunch orne_waypoints_editor edit_waypoints_viz.launch map_file:={mapファ
  
  ~/bags
  
- rosbag play tsudanuma825-2.bag
+ rosbag play {ファイル名}.bag
 
  rviz
  
