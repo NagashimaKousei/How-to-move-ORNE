@@ -55,6 +55,20 @@ $ roslaunch orne_waypoints_editor edit_waypoints_viz.launch map_file:={mapファ
  
  rosbagを取ることが出来る
  
+ __alphaPC上でrosbagを動かすためのコマンド一覧__
+ 
+ roscd turtlebot3_slam
+ 
+ cd launch
+ 
+ roslaunch turtlebot3_gmapping.launch
+ 
+ ~/bags
+ 
+ rosbag play tsudanuma825-2.bag
+
+ rviz
+ 
  # Referenced sites #
  https://github.com/open-rdc/orne_navigation/wiki/ORNE%E7%92%B0%E5%A2%83%E5%8B%95%E4%BD%9C%E3%81%AE%E6%89%8B%E9%A0%86
  
