@@ -5,11 +5,12 @@ This repository summarizes how ORNE works.
  roslaunch orne_bringup orne_alpha.launch
 ```
  __ここでalphaからbetaに変更することを忘れない__
- 
- ・roslaunch orne_bringup orne_beta.launch
- 
- ・roslaunch icart_mini_driver teleop_joy.launch
- 
+ ```
+ roslaunch orne_bringup orne_beta.launch
+ ```
+ ```
+ roslaunch icart_mini_driver teleop_joy.launch
+ ```
  **このコマンドはjoy stick controllerで地図を生成したい際に使います**
 
  __joy stick controllerを使って地図を生成するコマンドである__
