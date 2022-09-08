@@ -1,9 +1,9 @@
 # How-to-move-ORNE
 This repository summarizes how ORNE works.
 ## Commands to use
-
- ・roslaunch orne_bringup orne_alpha.launch
- 
+```
+ roslaunch orne_bringup orne_alpha.launch
+```
  __ここでalphaからbetaに変更することを忘れない__
  
  ・roslaunch orne_bringup orne_beta.launch
